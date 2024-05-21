@@ -74,3 +74,8 @@ This project is a React-based To-Do List application that allows users to add, r
 
 ---
 **Example:**
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Emelloul98/To-Do-List/blob/main/Example1.png" alt="Example 1" style="width: 45%;">
+    <img src="https://github.com/Emelloul98/To-Do-List/blob/main/Example2.png" alt="Example 2" style="width: 45%;">
+</div>
+
