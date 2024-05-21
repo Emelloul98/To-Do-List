@@ -60,8 +60,6 @@ This project is a React-based To-Do List application that allows users to add, r
 2. Open your browser and go to http://localhost:3000 to view the application.
 3. Add tasks by typing in the input field and pressing "Add".
 4. Click on tasks to mark them as completed.
-5. Use the delete button to remove tasks from the list.
-
 ---
 
 **Contributing:**
